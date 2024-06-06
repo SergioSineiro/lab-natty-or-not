@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Instagram Literário Usando Imagens de Ia e edições
+📒 Descrição
+Este projeto tem como objetivo criar um Instagram literário utilizando imagens geradas por IA e edição de fotos. As imagens são acompanhadas de textos literários curtos, criando uma experiência visual e literária integrada. A combinação de inteligência artificial para geração de imagens e técnicas de edição de fotos resulta em um feed estético e cativante, perfeito para os amantes da literatura e das artes visuais.
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+🤖 Tecnologias Utilizadas
+DALL-E 2: Utilizado para gerar imagens a partir de descrições textuais.
+Adobe Photoshop: Ferramenta para edição e aprimoramento das imagens geradas.
+Canva: Usado para criação de layouts e design das postagens no Instagram.
+🧐 Processo de Criação
+Geração de Ideias: Utilizei o GPT-4 para gerar ideias e descrições literárias baseadas em temas como natureza, emoções, e cenários fantásticos.
+Criação de Imagens: As descrições textuais foram inseridas no DALL-E 2 para gerar imagens que refletissem a essência literária das ideias.
+Edição de Fotos: As imagens geradas foram editadas no Adobe Photoshop para melhorar a qualidade, ajustar cores, adicionar efeitos visuais e integrar elementos gráficos.
+Design das Postagens: Utilizando o Canva, criei layouts atraentes para cada postagem, combinando imagens editadas com trechos literários e legendas envolventes.
+Publicação no Instagram: As postagens foram organizadas e publicadas em um perfil do Instagram, criando um feed coeso e esteticamente agradável.
+🚀 Resultados
+Feed do Instagram: Um perfil com uma série de postagens que combinam arte visual e literatura, cada uma apresentando uma imagem gerada por IA e um texto literário complementar.
+Engajamento: Atraímos um público interessado em literatura e arte visual, com crescimento constante de seguidores e engajamento nas postagens.
+Apreciação Estética: Criamos um ambiente onde os seguidores podem apreciar a beleza das imagens e a profundidade dos textos, promovendo uma experiência enriquecedora.
+💭 Reflexão (Opcional)
+Criar um Instagram literário com a ajuda de IAs Generativas foi um desafio recompensador. A integração de diferentes tecnologias para produzir um feed harmonioso exigiu atenção aos detalhes e uma boa dose de criatividade. A capacidade das IAs de gerar conteúdos visuais e textuais de alta qualidade me surpreendeu e abriu novas possibilidades para projetos futuros. Este processo também ressaltou a importância da curadoria humana na edição e na apresentação final dos conteúdos, garantindo que a arte gerada se comunique efetivamente com o público.
