@@ -19,6 +19,7 @@ Este projeto tem como objetivo criar um Instagram literário utilizando imagens 
 - **Feed do Instagram**: Um perfil com uma série de postagens que combinam arte visual e literatura, cada uma apresentando uma imagem gerada por IA e um texto literário complementar.
 - **Engajamento**: Atraímos um público interessado em literatura e arte visual, com crescimento constante de seguidores e engajamento nas postagens.
 - **Apreciação Estética**: Criamos um ambiente onde os seguidores podem apreciar a beleza das imagens e a profundidade dos textos, promovendo uma experiência enriquecedora.
+Link: https://www.instagram.com/paginas_e_indicacoes/
 
 ## 💭 Reflexão 
 Criar um Instagram literário com a ajuda de IAs Generativas foi um desafio recompensador. A integração de diferentes tecnologias para produzir um feed harmonioso exigiu atenção aos detalhes e uma boa dose de criatividade. A capacidade das IAs de gerar conteúdos visuais e textuais de alta qualidade me surpreendeu e abriu novas possibilidades para projetos futuros. Este processo também ressaltou a importância da curadoria humana na edição e na apresentação final dos conteúdos, garantindo que a arte gerada se comunique efetivamente com o público.
