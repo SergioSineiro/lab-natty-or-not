@@ -1,4 +1,4 @@
-# Criação de um Blog literário através do instagram usando IA 
+# Criação de um Blog literário no instagram usando IA (Inteligência Artificial Generativa) 
 
 ## 📒 Descrição
 Este projeto tem como objetivo criar um Instagram literário utilizando imagens geradas por IA e edição de fotos. As imagens são acompanhadas de textos literários curtos, criando uma experiência visual e literária integrada. A combinação de inteligência artificial para geração de imagens e técnicas de edição de fotos resulta em um feed estético e cativante, perfeito para os amantes da literatura e das artes visuais.
